@@ -1,0 +1,8 @@
+C:\Users\dumag\Desktop\Code Files\ReadWriteFile_Dumagpi\ReadWriteFile_Dumagpi\bin\Debug\ReadWriteFile_Dumagpi.exe.config
+C:\Users\dumag\Desktop\Code Files\ReadWriteFile_Dumagpi\ReadWriteFile_Dumagpi\bin\Debug\ReadWriteFile_Dumagpi.exe
+C:\Users\dumag\Desktop\Code Files\ReadWriteFile_Dumagpi\ReadWriteFile_Dumagpi\bin\Debug\ReadWriteFile_Dumagpi.pdb
+C:\Users\dumag\Desktop\Code Files\ReadWriteFile_Dumagpi\ReadWriteFile_Dumagpi\obj\Debug\ReadWriteFile_Dumagpi.csproj.AssemblyReference.cache
+C:\Users\dumag\Desktop\Code Files\ReadWriteFile_Dumagpi\ReadWriteFile_Dumagpi\obj\Debug\ReadWriteFile_Dumagpi.csproj.SuggestedBindingRedirects.cache
+C:\Users\dumag\Desktop\Code Files\ReadWriteFile_Dumagpi\ReadWriteFile_Dumagpi\obj\Debug\ReadWriteFile_Dumagpi.csproj.CoreCompileInputs.cache
+C:\Users\dumag\Desktop\Code Files\ReadWriteFile_Dumagpi\ReadWriteFile_Dumagpi\obj\Debug\ReadWriteFile_Dumagpi.exe
+C:\Users\dumag\Desktop\Code Files\ReadWriteFile_Dumagpi\ReadWriteFile_Dumagpi\obj\Debug\ReadWriteFile_Dumagpi.pdb
